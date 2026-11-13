@@ -74,6 +74,46 @@ window.SITE_TRANSLATIONS = {
 'proj.eo4.desc': 'Mengoordinasikan panggung utama festival, termasuk rundown, sound check, dan kelancaran performa pengisi acara.',
 'proj.eo.tahun': '2026',
 
+    /* experience */
+'exp.label': 'Pengalaman',
+'exp.judul': 'Pengalaman Kerja, Freelance, & Proyek',
+'exp.subjudul': 'Pernah dan sedang bekerja pada perusahaan berikut.',
+
+/* gallery */
+'gal.label': 'Galeri',
+'gal.judul': 'Dokumentasi & portofolio.',
+'gal.sub': 'Beberapa dokumentasi kegiatan dan proyek.',
+
+    /* contact */
+'contact.label': 'Kontak',
+'contact.judul': 'Mari terhubung.',
+'contact.subjudul': 'Silakan hubungi saya melalui salah satu kanal di bawah. Saya akan merespon secepat mungkin.',
+'contact.wa': 'WhatsApp',
+'contact.email': 'Email',
+'contact.linkedin': 'LinkedIn',
+'contact.instagram': 'Instagram',
+'contact.alamat': 'Alamat',
+
+    /* faq */
+'faq.label': 'FAQ',
+'faq.judul': 'Yang mungkin ingin Anda tanyakan.',
+'faq.q1': 'Apa kesibukan Anda saat ini?',
+'faq.a1': 'Saat ini kesibukan utama saya adalah mengelola operasional bisnis pribadi saya secara mandiri. Dari pengalaman ini, setiap hari saya belajar banyak hal baru, mulai dari manajemen proyek, menghadapi klien, hingga pemecahan masalah secara cepat.',
+'faq.q2': 'Kenapa Anda tertarik dengan posisi ini?',
+'faq.a2': 'Saya ingin membawa pengalaman mengelola bisnis mandiri ke skala yang lebih besar. Saya percaya kemampuan manajemen operasional, teknis, dan kreatif yang saya miliki bisa memberikan kontribusi nyata untuk tim dan perusahaan Anda.',
+'faq.q3': 'Apa kelebihan utama Anda?',
+'faq.a3': 'Saya adalah generalis dengan spesialisasi menguasai teknis IT, desain, manajemen proyek, dan operasional bisnis. Kelebihan utama saya adalah kemampuan memecahkan masalah secara mandiri dan cepat beradaptasi dengan hal baru.',
+'faq.q4': 'Apakah Anda bisa bekerja dalam tim?',
+'faq.a4': 'Tentu. Saya terbiasa membangun sistem operasional yang terdelegasi dengan baik bersama tim. Saya percaya kolaborasi yang efektif lahir dari komunikasi yang jelas dan tanggung jawab yang terbagi dengan baik.',
+'faq.q5': 'Kenapa Anda resign dari pekerjaan sebelumnya?',
+'faq.a5': 'Saya bersyukur atas pengalaman di tempat sebelumnya. Namun, saya merasa siap untuk naik ke level berikutnya mencari lingkungan yang lebih menantang, terstruktur, dan memberi ruang untuk berkembang secara profesional.',
+'faq.q6': 'Bagaimana Anda mengelola banyak bisnis sekaligus?',
+'faq.a6': 'Kuncinya adalah sistem dan delegasi. Saya membangun alur kerja yang jelas untuk setiap lini bisnis dan memastikan setiap bagian memiliki penanggung jawab. Ini membuat operasional tetap berjalan tanpa harus saya awasi setiap saat.',
+'faq.q7': 'Apakah Anda bersedia belajar hal baru?',
+'faq.a7': 'Sangat bersedia. Saya terbiasa belajar secara mandiri dari desain, IT, hingga trading saham. Saya percaya kemampuan belajar adalah skill paling berharga di era yang berubah cepat seperti sekarang.',
+'faq.q8': 'Kapan Anda bisa mulai bekerja?',
+'faq.a8': 'Saya bisa mulai setelah menyelesaikan proses transisi di pekerjaan saat ini. Estimasi sekitar 3 sampai 7 hari setelah konfirmasi, namun bisa didiskusikan lebih lanjut.',
+    
   },
   en: {
     /* navbar */
@@ -149,6 +189,46 @@ window.SITE_TRANSLATIONS = {
 'proj.eo3.desc': 'Handled stage needs, communication with performers, and technical arrangements during the event.',
 'proj.eo4.desc': 'Coordinated the festival main stage, including rundown, sound check, and smooth performer flow.',
 'proj.eo.tahun': '2026',
+
+    /* experience */
+'exp.label': 'Experience',
+'exp.judul': 'Work, Freelance & Project Experience',
+'exp.subjudul': 'Have worked and currently working with the following companies.',
+
+    /* gallery */
+'gal.label': 'Gallery',
+'gal.judul': 'Documentation & portfolio.',
+'gal.sub': 'Some documentation of activities and projects.',
+
+    /* contact */
+'contact.label': 'Contact',
+'contact.judul': "Let's connect.",
+'contact.subjudul': 'Feel free to reach me through any of the channels below. I will respond as soon as possible.',
+'contact.wa': 'WhatsApp',
+'contact.email': 'Email',
+'contact.linkedin': 'LinkedIn',
+'contact.instagram': 'Instagram',
+'contact.alamat': 'Address',
+
+    /* faq */
+'faq.label': 'FAQ',
+'faq.judul': 'Things you might want to ask.',
+'faq.q1': 'What are you currently working on?',
+'faq.a1': 'My main focus right now is managing my own business operations independently. From this experience, I learn many new things every day — from project management and dealing with clients to quick problem solving.',
+'faq.q2': 'Why are you interested in this position?',
+'faq.a2': 'I want to bring my experience managing an independent business to a larger scale. I believe my operational, technical, and creative management skills can make a real contribution to your team and company.',
+'faq.q3': 'What are your main strengths?',
+'faq.a3': 'I am a generalist with specialization in IT, design, project management, and business operations. My main strength is the ability to solve problems independently and adapt quickly to new things.',
+'faq.q4': 'Can you work in a team?',
+'faq.a4': 'Of course. I am used to building well-delegated operational systems with a team. I believe effective collaboration is born from clear communication and well-divided responsibilities.',
+'faq.q5': 'Why did you resign from your previous job?',
+'faq.a5': 'I am grateful for the experience at my previous workplace. However, I feel ready to move to the next level — seeking a more challenging, structured environment that gives room for professional growth.',
+'faq.q6': 'How do you manage multiple businesses at once?',
+'faq.a6': 'The key is systems and delegation. I build clear workflows for each business line and ensure every part has a person in charge. This keeps operations running without me having to supervise every moment.',
+'faq.q7': 'Are you willing to learn new things?',
+'faq.a7': 'Absolutely. I am used to learning independently — from design, IT, to stock trading. I believe the ability to learn is the most valuable skill in a fast-changing era like now.',
+'faq.q8': 'When can you start working?',
+'faq.a8': 'I can start after completing the transition process at my current job. Estimated around 3 to 7 days after confirmation, but it can be discussed further.',
 
   }
 };
