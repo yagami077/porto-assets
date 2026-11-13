@@ -149,5 +149,6 @@ window.SITE_TRANSLATIONS = {
 'proj.eo3.desc': 'Handled stage needs, communication with performers, and technical arrangements during the event.',
 'proj.eo4.desc': 'Coordinated the festival main stage, including rundown, sound check, and smooth performer flow.',
 'proj.eo.tahun': '2026',
+
   }
 };
