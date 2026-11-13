@@ -53,6 +53,27 @@ window.SITE_TRANSLATIONS = {
     'edu.nama2': 'Universitas Terbuka',
     'edu.nama3': 'BLK Pasuruan (TKJ)',
 
+    /* project */
+'proj.label': 'Project',
+'proj.judul': 'Project yang sedang atau pernah saya kelola.',
+'proj.info': 'Info Lebih Lengkap',
+'proj.cyberline.peran': 'Founder — Operations Lead',
+'proj.cyberline.desc': 'Solusi teknologi informasi terpadu melayani servis komputer, pemasangan CCTV, setup jaringan, hingga jual beli perangkat dan sparepart.',
+'proj.rekaruang.peran': 'Founder — Marketing & Drafter',
+'proj.rekaruang.desc': 'Jasa manajemen konstruksi dan pengelolaan proyek serta home service, menghubungkan perencanaan teknis dengan eksekusi lapangan yang presisi dan efisien.',
+'proj.desainku.peran': 'Founder — Designer',
+'proj.desainku.desc': 'Layanan desain grafis dan cetak untuk kebutuhan branding, promosi, dan komunikasi visual bisnis Anda dari konsep hingga hasil akhir.',
+'proj.carx.peran': 'Founder — Marketing',
+'proj.carx.desc': 'Usaha di bidang otomotif yang menangani perawatan kendaraan dengan pendekatan pemasaran langsung dan hubungan pelanggan yang personal.',
+'proj.ruanghangeul.peran': 'Founder — Kreator',
+'proj.ruanghangeul.desc': 'Ruang kreatif untuk belajar dan mengembangkan minat pada bahasa Korea — konten edukatif, komunitas, dan sumber belajar dasar Hangeul.',
+'proj.eo.peran': 'Crew — Stage Manager',
+'proj.eo1.desc': 'Bertanggung jawab mengatur jalannya panggung, koordinasi antar divisi, dan memastikan acara berjalan sesuai rundown.',
+'proj.eo2.desc': 'Mengelola panggung dan koordinasi teknis acara, memastikan transisi antar sesi berjalan lancar dan tepat waktu.',
+'proj.eo3.desc': 'Menangani kebutuhan panggung, komunikasi dengan pengisi acara, dan pengaturan teknis selama event berlangsung.',
+'proj.eo4.desc': 'Mengoordinasikan panggung utama festival, termasuk rundown, sound check, dan kelancaran performa pengisi acara.',
+'proj.eo.tahun': '2026',
+
   },
   en: {
     /* navbar */
@@ -107,5 +128,26 @@ window.SITE_TRANSLATIONS = {
     'edu.nama1': 'SMA Maarif NU Pandaan',
     'edu.nama2': 'Universitas Terbuka',
     'edu.nama3': 'BLK Pasuruan (TKJ)',
+
+    /* project */
+'proj.label': 'Project',
+'proj.judul': 'Projects I am currently or have previously managed.',
+'proj.info': 'Learn More',
+'proj.cyberline.peran': 'Founder — Operations Lead',
+'proj.cyberline.desc': 'Integrated IT solutions covering computer servicing, CCTV installation, network setup, and buying/selling devices and spare parts.',
+'proj.rekaruang.peran': 'Founder — Marketing & Drafter',
+'proj.rekaruang.desc': 'Construction management and project supervision services plus home service, connecting technical planning with precise and efficient field execution.',
+'proj.desainku.peran': 'Founder — Designer',
+'proj.desainku.desc': 'Graphic design and print services for branding, promotion, and visual communication needs — from concept to final result.',
+'proj.carx.peran': 'Founder — Marketing',
+'proj.carx.desc': 'An automotive business handling vehicle maintenance with a direct marketing approach and personal customer relationships.',
+'proj.ruanghangeul.peran': 'Founder — Creator',
+'proj.ruanghangeul.desc': 'A creative space to learn and grow interest in the Korean language — educational content, community, and basic Hangeul learning resources.',
+'proj.eo.peran': 'Crew — Stage Manager',
+'proj.eo1.desc': 'Responsible for managing stage flow, coordinating between divisions, and ensuring the event runs according to the rundown.',
+'proj.eo2.desc': 'Managed the stage and technical coordination of the event, ensuring smooth and timely transitions between sessions.',
+'proj.eo3.desc': 'Handled stage needs, communication with performers, and technical arrangements during the event.',
+'proj.eo4.desc': 'Coordinated the festival main stage, including rundown, sound check, and smooth performer flow.',
+'proj.eo.tahun': '2026',
   }
 };
