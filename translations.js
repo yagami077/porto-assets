@@ -113,6 +113,11 @@ window.SITE_TRANSLATIONS = {
 'faq.a7': 'Sangat bersedia. Saya terbiasa belajar secara mandiri dari desain, IT, hingga trading saham. Saya percaya kemampuan belajar adalah skill paling berharga di era yang berubah cepat seperti sekarang.',
 'faq.q8': 'Kapan Anda bisa mulai bekerja?',
 'faq.a8': 'Saya bisa mulai setelah menyelesaikan proses transisi di pekerjaan saat ini. Estimasi sekitar 3 sampai 7 hari setelah konfirmasi, namun bisa didiskusikan lebih lanjut.',
+
+    /* linkedin */
+'li.judul': 'Aktif di LinkedIn',
+'li.sub': 'Berbagi catatan IT, bisnis, dan pengembangan diri.',
+'li.follow': 'Ikuti',
     
   },
   en: {
@@ -230,6 +235,11 @@ window.SITE_TRANSLATIONS = {
 'faq.q8': 'When can you start working?',
 'faq.a8': 'I can start after completing the transition process at my current job. Estimated around 3 to 7 days after confirmation, but it can be discussed further.',
 
+    /* linkedin */
+'li.judul': 'Active on LinkedIn',
+'li.sub': 'Sharing notes on IT, business, and self-development.',
+'li.follow': 'Follow',
+
   },
   
 ko: {
@@ -346,6 +356,11 @@ ko: {
   'faq.a7': '물론입니다. 디자인, IT, 주식 거래까지 독립적으로 배우는 데 익숙합니다. 빠르게 변화하는 시대에 학습 능력이 가장 가치 있는 기술이라고 믿습니다.',
   'faq.q8': '언제 일을 시작할 수 있나요?',
   'faq.a8': '현재 직장의 전환 과정을 마친 후 시작할 수 있습니다. 확인 후 약 3~7일 예상되며, 추가 논의가 가능합니다.',
+
+  /* linkedin */
+'li.judul': 'LinkedIn에서 활동 중',
+'li.sub': 'IT, 비즈니스, 자기 개발에 대한 노트를 공유합니다.',
+'li.follow': '팔로우',
 },
 
   
@@ -463,6 +478,11 @@ ko: {
     'faq.a7': 'もちろんです。デザイン、IT、株式取引まで独立して学ぶことに慣れています。急速に変化する時代において、学習能力が最も価値のあるスキルだと信じています。',
     'faq.q8': 'いつから働けますか？',
     'faq.a8': '現在の仕事の移行プロセスを完了した後に開始できます。確認後約3〜7日を見込んでいますが、さらに議論することができます。',
+
+    /* linkedin */
+'li.judul': 'LinkedInで活動中',
+'li.sub': 'IT、ビジネス、自己啓発に関するノートを共有しています。',
+'li.follow': 'フォロー',
   }
   
 };
