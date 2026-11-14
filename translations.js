@@ -230,5 +230,122 @@ window.SITE_TRANSLATIONS = {
 'faq.q8': 'When can you start working?',
 'faq.a8': 'I can start after completing the transition process at my current job. Estimated around 3 to 7 days after confirmation, but it can be discussed further.',
 
-  }
+  },
+  
+ko: {
+  /* navbar */
+  'nav.beranda': '홈',
+  'nav.about': '소개',
+  'nav.certificate': '자격증',
+  'nav.project': '프로젝트',
+  'nav.pendidikan': '교육',
+  'nav.pengalaman': '경력',
+  'nav.galeri': '갤러리',
+  'nav.kontak': '연락처',
+  'nav.faq': 'FAQ',
+
+  /* hero */
+  'hero.greeting': '안녕하세요, 저는',
+  'hero.name': 'Muhammad <strong>Alif</strong> Muzaqqi',
+  'hero.role': '기술 애호가 &amp; 독립 기업가',
+  'hero.desc': '학교 때부터 기술에 깊은 관심을 가지고, 지금은 여러 통합 사업 라인을 독립적으로 구축하고 운영하고 있습니다. 저에게 모든 도전은 더 높은 수준의 전문성으로 나아가는 배움의 과정입니다.',
+  'hero.cv': '이력서 다운로드',
+  'hero.contact': '연락하기',
+
+  /* highlight */
+  'highlight.label': '하이라이트',
+  'highlight.judul': '경험 통계',
+  'highlight.teks1': '고객 & 협력자',
+  'highlight.teks2': '성장을 향한 의지',
+  'highlight.teks3': '년의 경험 & 학습',
+  'highlight.teks4': '처리한 프로젝트 & 이벤트',
+
+  /* about */
+  'about.label': '소개',
+  'about.judul': 'IT 애호가 & 독립 기업가',
+  'about.subjudul': 'IT 인프라, 네트워크 & 기술 솔루션 실무자',
+  'about.desc1': '저는 Muhammad Alif Muzaqqi입니다. 컴퓨터와 네트워크에 대한 호기심에서 시작해 비즈니스, 디자인, 프로젝트 운영 경험으로 성장한 IT 실무자입니다. 제 주요 초점은 효율적이고 실용적이며 실제 요구에 맞는 기술 솔루션을 설계하고 처리하는 것입니다.',
+  'about.kontribusiJudul': '전문적 기여',
+  'about.kontribusiDesc': '저는 기기 서비스 및 유지보수, 네트워크 및 CCTV 설치부터 비즈니스 운영 관리와 CV. Reka Ruang Barokah의 프로젝트 실행까지 전 과정을 처리하는 데 익숙합니다. 다양한 분야의 경험을 통해 문제를 여러 각도에서 바라보고, 기술적 요구와 비즈니스 요구를 연결하며, 실용적인 결정을 내리는 능력을 갖추었습니다.',
+  'about.spesialisasiJudul': '전문 분야 & 핵심 영역',
+  'about.spesialisasiDesc': 'Cyberline 비즈니스도 관리하는 IT 실무자로서, 제 주요 전문성은 다음과 같습니다:',
+  'about.list1': '인프라 & 네트워크: 네트워크 설정, 문제 해결, 기기 구성.',
+  'about.list2': '하드웨어: 컴퓨터 서비스, PC 조립, 노트북 및 부품 판매.',
+  'about.list3': '기본 보안: 가정 및 비즈니스 요구를 위한 CCTV 설치 및 구성.',
+  'about.list4': '다분야: 기술 솔루션을 지원하는 디자인, 운영, 프로젝트 관리.',
+
+  /* certificate */
+  'cert.label': '자격증',
+  'cert.judul': '이수한 자격증 & 과정.',
+
+  /* education */
+  'edu.label': '교육 & 부트캠프',
+  'edu.judul': '교육 & 부트캠프 이력',
+  'edu.subjudul': '다음 프로그램 및 대학에서 공부했거나 현재 공부 중입니다.',
+  'edu.nama1': 'SMA Maarif NU Pandaan',
+  'edu.nama2': 'Universitas Terbuka',
+  'edu.nama3': 'BLK Pasuruan (TKJ)',
+
+  /* project */
+  'proj.label': '프로젝트',
+  'proj.judul': '현재 또는 과거에 관리한 프로젝트.',
+  'proj.info': '자세히 보기',
+  'proj.cyberline.peran': '창립자 — 운영 책임자',
+  'proj.cyberline.desc': '컴퓨터 서비스, CCTV 설치, 네트워크 설정, 기기 및 부품 판매를 아우르는 통합 IT 솔루션.',
+  'proj.rekaruang.peran': '창립자 — 마케팅 & 설계자',
+  'proj.rekaruang.desc': '건설 관리 및 프로젝트 감독 서비스와 홈 서비스로, 기술 기획과 정확하고 효율적인 현장 실행을 연결합니다.',
+  'proj.desainku.peran': '창립자 — 디자이너',
+  'proj.desainku.desc': '브랜딩, 홍보, 시각 커뮤니케이션 요구를 위한 그래픽 디자인 및 인쇄 서비스 — 컨셉부터 최종 결과까지.',
+  'proj.carx.peran': '창립자 — 마케팅',
+  'proj.carx.desc': '직접 마케팅 접근과 개인적인 고객 관계로 차량 유지보수를 처리하는 자동차 비즈니스.',
+  'proj.ruanghangeul.peran': '창립자 — 크리에이터',
+  'proj.ruanghangeul.desc': '한국어 학습과 관심 성장을 위한 창의적 공간 — 교육 콘텐츠, 커뮤니티, 기초 한글 학습 자료.',
+  'proj.eo.peran': '크루 — 무대 매니저',
+  'proj.eo1.desc': '무대 흐름 관리, 부서 간 조정, 이벤트가 런다운에 따라 진행되도록 보장.',
+  'proj.eo2.desc': '이벤트의 무대와 기술 조정을 관리하여 세션 간 원활하고 적시적인 전환 보장.',
+  'proj.eo3.desc': '무대 요구, 공연자와의 소통, 이벤트 중 기술 준비 처리.',
+  'proj.eo4.desc': '페스티벌 메인 무대 조정 — 런다운, 사운드 체크, 공연자 흐름 포함.',
+  'proj.eo.tahun': '2026',
+
+  /* experience */
+  'exp.label': '경력',
+  'exp.judul': '업무, 프리랜서 & 프로젝트 경력',
+  'exp.subjudul': '다음 회사들과 함께 일했거나 현재 일하고 있습니다.',
+
+  /* gallery */
+  'gal.label': '갤러리',
+  'gal.judul': '문서화 & 포트폴리오.',
+  'gal.sub': '활동 및 프로젝트 문서화 일부.',
+
+  /* contact */
+  'contact.label': '연락처',
+  'contact.judul': '연결합시다.',
+  'contact.subjudul': '아래 채널 중 하나로 저에게 연락하세요. 최대한 빨리 응답하겠습니다.',
+  'contact.wa': 'WhatsApp',
+  'contact.email': '이메일',
+  'contact.linkedin': 'LinkedIn',
+  'contact.instagram': 'Instagram',
+  'contact.alamat': '주소',
+
+  /* faq */
+  'faq.label': 'FAQ',
+  'faq.judul': '궁금하실 수 있는 것들.',
+  'faq.q1': '현재 무엇을 하고 계신가요?',
+  'faq.a1': '현재 주요 초점은 제 비즈니스 운영을 독립적으로 관리하는 것입니다. 이 경험을 통해 프로젝트 관리, 고객 응대, 빠른 문제 해결 등 매일 많은 새로운 것을 배우고 있습니다.',
+  'faq.q2': '왜 이 직책에 관심이 있으신가요?',
+  'faq.a2': '독립 비즈니스 관리 경험을 더 큰 규모로 가져가고 싶습니다. 제 운영, 기술, 창의적 관리 능력이 귀하의 팀과 회사에 실질적인 기여를 할 수 있다고 믿습니다.',
+  'faq.q3': '주요 강점은 무엇인가요?',
+  'faq.a3': '저는 IT, 디자인, 프로젝트 관리, 비즈니스 운영에 특화된 제너럴리스트입니다. 주요 강점은 문제를 독립적으로 해결하고 새로운 것에 빠르게 적응하는 능력입니다.',
+  'faq.q4': '팀으로 일할 수 있나요?',
+  'faq.a4': '물론입니다. 저는 팀과 함께 잘 위임된 운영 시스템을 구축하는 데 익숙합니다. 효과적인 협업은 명확한 소통과 잘 분배된 책임에서 탄생한다고 믿습니다.',
+  'faq.q5': '이전 직장을 왜 그만두셨나요?',
+  'faq.a5': '이전 직장 경험에 감사합니다. 그러나 저는 더 도전적이고 체계적이며 전문적 성장의 여지를 주는 환경을 찾아 다음 단계로 나아갈 준비가 되었다고 느낍니다.',
+  'faq.q6': '여러 비즈니스를 동시에 어떻게 관리하나요?',
+  'faq.a6': '핵심은 시스템과 위임입니다. 각 사업 라인에 명확한 워크플로우를 구축하고 모든 부분에 책임자가 있도록 합니다. 이렇게 하면 매 순간 감독하지 않아도 운영이 계속됩니다.',
+  'faq.q7': '새로운 것을 배울 의향이 있나요?',
+  'faq.a7': '물론입니다. 디자인, IT, 주식 거래까지 독립적으로 배우는 데 익숙합니다. 빠르게 변화하는 시대에 학습 능력이 가장 가치 있는 기술이라고 믿습니다.',
+  'faq.q8': '언제 일을 시작할 수 있나요?',
+  'faq.a8': '현재 직장의 전환 과정을 마친 후 시작할 수 있습니다. 확인 후 약 3~7일 예상되며, 추가 논의가 가능합니다.',
+}
+  
 };
